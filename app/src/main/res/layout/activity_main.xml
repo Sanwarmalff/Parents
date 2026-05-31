@@ -32,7 +32,7 @@
         android:id="@+id/btnSetup"
         android:layout_width="match_parent"
         android:layout_height="55dp"
-        android:text="Grant Permissions & Start"
+        android:text="Grant Permissions &amp; Start"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
